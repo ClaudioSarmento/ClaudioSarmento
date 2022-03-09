@@ -2,7 +2,7 @@
 # Claudio Sarmento
 
 ### Olá pessoal 👋
-Atualmente sou contratado na Empresa B4you como Analista de TI Jr II.
+Atualmente sou contratado na Empresa B4you como Analista Desenvolvedor Jr II.
 
 - 🔭 I’m currently working on ... Estou cursando ADS pela Unicesumar e estou no 2º Ano do Curso. Faço outros cursos em algumas plataformas por exemplo: Alura e Udemy onde já consegui alguns certificados, procuro sempre estudar para me tornar um ótimo Desenvolvedor;
 - 🌱 I’m currently learning ... Java Orientado a objetos, C, SQL, PostgreSQL, HTML, CSS;
