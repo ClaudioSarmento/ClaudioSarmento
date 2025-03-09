@@ -1,12 +1,12 @@
+👨‍💻 Claudio Sarmento
+Olá, pessoal! 👋
+Sou Analista de Desenvolvimento de Sistemas na B4you, formado em Análise e Desenvolvimento de Sistemas pela Unicesumar. Estou sempre estudando para aprimorar minhas habilidades e me tornar um desenvolvedor ainda melhor. 🚀
 
-# Claudio Sarmento
+🚀 Sobre mim
+🔭 Atualmente trabalhando em: Desenvolvimento de sistemas e otimização de processos na B4you.
+🎓 Formação: ADS pela Unicesumar + Certificações em Alura e Udemy.
+🤝 Posso ajudar com: C#, Javascript, Bootstrap, HTML, CSS, PostgreSQL, MySQL, Algoritmos, Lógica de Programação, Engenharia de Software e mais! Se não sei, eu pesquiso. 😃
+🎮 Interesses: Tecnologia, jogos, cultura geek e, claro, codar!
+📫 Como me encontrar
 
-### Olá pessoal 👋
-Atualmente sou contratado na Empresa B4you como Analista De Desenvolvimento de Sistemas.
-
-- 🔭 I’m currently working on ... Formado em Análise e Desenvolvimento de Sistemas pela Unicesumar. Faço outros cursos em algumas plataformas por exemplo: Alura e Udemy onde já consegui alguns certificados, procuro sempre estudar para ser um excelente Desenvolvedor;
-- 🌱 I’m currently learning ... Java Orientado a objetos, C#, MySQL, PostgreSQL, HTML, CSS, JavaScript;
-- 🤔 I’m looking for help with ... Posso ajudar em Java, C, Banco de dados PostregreeSQL, Algoritmos e Lógica de programação, Engenharia de software, Sistemas Operacionais, e coisas ligadas a tecnologia. O que eu não sei... eu pesquiso :D ;
-- 💬 Ask me about ... Curto Tecnologias, Jogos, Cultura Geek e Codar;
-- 📫 How to reach me: ... [ ! Linkedin] (https://www.linkedin.com/in/claudio-ignacio-371b8511a/) | [ ! [E-mail] (claudio-s-i@hotmail.com);
--->
+📧 E-mail: claudio-s-i@hotmail.com
